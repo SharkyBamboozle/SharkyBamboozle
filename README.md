@@ -12,7 +12,7 @@ I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cogn
 </div>
 
 ## Hackathons
-- :trophy: 2nd Place – [Berkeley LLM Agent Hackathon 2025 Benchmarking Track](https://rdi.berkeley.edu/llm-agents-hackathon/)
+- :trophy: 2nd Place – [Berkeley LLM Agent Hackathon 2024 Benchmarking Track](https://rdi.berkeley.edu/llm-agents-hackathon/)
 
 ## Experienced with
 - Python, C#, C++
