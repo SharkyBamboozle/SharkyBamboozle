@@ -18,3 +18,9 @@ I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cogn
 - Python, C#, C++
 - Tensorflow, PyTorch
 - MuJoCo, Unity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
+</picture>
