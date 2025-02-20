@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
+</picture>
+
 ## Hi there 👋
 
 I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cognitive Science and Intelligent Adaptive Systems. Experienced in software development for machine learning and artificial intelligence, bridging research innovation with industry application, currently finalizing my Ph.D. dissertation and exploring new opportunities in impactful AI.
@@ -18,9 +24,3 @@ I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cogn
 - Python, C#, C++
 - Tensorflow, PyTorch
 - MuJoCo, Unity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SharkyBamboozle/SharkyBamboozle/output/github-snake.svg" />
-</picture>
