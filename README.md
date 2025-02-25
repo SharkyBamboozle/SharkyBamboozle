@@ -11,7 +11,8 @@ I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cogn
 ## Selected Research projects
 - **:jigsaw: [iVISPAR](https://github.com/SharkyBamboozle/iVISPAR)** – Designed and developed an interactive multi-modal benchmark to assess visual-spatial reasoning of large vision-language models with Unity. [![arXiv](https://img.shields.io/badge/arXiv-2502.03214-b31b1b.svg)](https://arxiv.org/abs/2502.03214)
 - **:ant: [MicrocosmAI](https://github.com/microcosmAI)** – Founded and led MicrocosmAI, a research initiative focused on emergent communication and coordination in embodied multi-agent environments with MuJoCo.
-- **:microscope: [Cortical Spike Synchrony](https://github.com/SharkyBamboozle/synchrony)** – Implemented a computational framework to model cortical spike synchrony, demonstrating that spike synchrony reflects the Gestalt structure of the stimulus which can be interpreted as a mechanism for prior probability estimation.
+- **:microscope: [Cortical Spike Synchrony](https://github.com/SharkyBamboozle/synchrony)** – Implemented a computational framework to model cortical spike synchrony, demonstrating that spike synchrony reflects the Gestalt structure of the stimulus which can be interpreted as a mechanism for prior probability estimation. ![Static Badge](https://img.shields.io/badge/scientific_reports-5910_(2024)-green?link=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-024-54755-w)
+
 
 <div align="center">
   <img src="banner.png" alt="banner" width="900"/>
