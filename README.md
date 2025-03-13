@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cognitive Science and Intelligent Adaptive Systems. Experienced in software development for machine learning and artificial intelligence, bridging research innovation with industry application, currently finalizing my Ph.D. dissertation and exploring new opportunities in impactful AI. Find my [CV here](https://github.com/SharkyBamboozle/SharkyBamboozle/blob/main/jmayer_CV.pdf).
+I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cognitive Science and Intelligent Adaptive Systems. Experienced in software development for machine learning and artificial intelligence, bridging research innovation with industry application, currently finalizing my Ph.D. dissertation and exploring new opportunities in impactful AI. Visit me on my website [jmayer.ai](https://jmayer.ai) and say hi.
 
 ## Selected Research projects
 - **:jigsaw: [iVISPAR](https://github.com/SharkyBamboozle/iVISPAR)** – Designed and developed an interactive multi-modal benchmark to assess visual-spatial reasoning of large vision-language models with Unity. [![arXiv](https://img.shields.io/badge/arXiv-2502.03214-b31b1b.svg)](https://arxiv.org/abs/2502.03214)
