@@ -8,7 +8,9 @@
 
 I'm Julius Mayer, a Machine Learning Researcher with a strong foundation in Cognitive Science and Intelligent Adaptive Systems. Experienced in software development for machine learning and artificial intelligence, bridging research innovation with industry application, currently finalizing my Ph.D. dissertation and exploring new opportunities in impactful AI. Visit me on my website [jmayer.ai](https://jmayer.ai) and say hi.
 
-## Selected Research projects
+## Selected projects
+- **:triangular_ruler: [CLAUDE Blueprint](https://github.com/SharkyBamboozle/CLAUDE_blueprint)** – Designed and built a template repository that seeds new projects with a complete, enforced development process — canonical documentation, addressable decisions, and CI gates that keep the rules true — so every project starts on rails for humans and AI agents alike. [![Use this template](https://img.shields.io/badge/template-use%20this%20repo-2ea44f?logo=github)](https://github.com/SharkyBamboozle/CLAUDE_blueprint/generate)
+
 - **:jigsaw: [iVISPAR](https://github.com/SharkyBamboozle/iVISPAR)** – Designed and developed an interactive multi-modal benchmark to assess visual-spatial reasoning of large vision-language models with Unity. [![arXiv](https://img.shields.io/badge/arXiv-2502.03214-b31b1b.svg)](https://arxiv.org/abs/2502.03214)
 
 - **:ant: [MicrocosmAI](https://github.com/microcosmAI)** – Founded and led MicrocosmAI, a research initiative focused on emergent communication and coordination in embodied multi-agent environments with MuJoCo. [![Static Badge](https://img.shields.io/badge/website-microcosm.ai-blue)](https://microcosm.ai/)
